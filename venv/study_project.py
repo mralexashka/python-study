@@ -6,7 +6,7 @@ def is_palindrome():
         flag = True
         if string != string[::-1]:
             flag = False
-        print(flag)
+        print(flag)#
 
 
 def calculator():
